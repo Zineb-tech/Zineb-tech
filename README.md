@@ -9,12 +9,15 @@ For me, it's not just about writing code — it's about creating systems that ar
 ## 🚀 What I'm Up To
 
 🤖 Exploring foundational & applied machine learning concepts
+
 Exploring Machine Learning through hands-on projects and courses, with a focus on supervised learning, data preprocessing, and model evaluation.
 
 🛠️ Backend Development with Spring Boot
+
 Building secure APIs using Java 21, Spring Boot 3.4.x, and JWT authentication. Applying clean code and scalable architecture principles.
 
 💡 Building Stronger Problem-Solving Skills
+
 Practicing Data Structures and Algorithms through LeetCode.
 
 ## 🌐 Connect with me:
