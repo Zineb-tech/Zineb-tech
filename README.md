@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I am a Software Engineer who enjoys turning ideas into real, working products. I like the challenge of starting from scratch, building things step by step, and improving them with purpose. 
+I am a Software Engineer who enjoys turning ideas into real working products. I like the challenge of starting from scratch, building things step by step, and improving them with purpose. 
 
 For me, it's not just about writing code — it's about creating systems that are useful, reliable, and meaningful. I care about writing clean, readable code and building solutions that are easy to maintain and improve over time.
 
